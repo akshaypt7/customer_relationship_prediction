@@ -7,8 +7,8 @@ We’ve further built tree-based ensemble models - Random Forest, Gradient Boost
 
 **Steps to run the notebook**
 
-Please add the shortcut of this [drive folder](https://drive.google.com/drive/folders/12sa5znzETBehSbXSidr6LjA_WoU8JHWa?usp=sharing) on your drive before running the code .
+1) Please add the shortcut of this [drive folder](https://drive.google.com/drive/folders/12sa5znzETBehSbXSidr6LjA_WoU8JHWa?usp=sharing) on your drive before running the code .
 
-Some of the cells take hours together to run, so to avoid that we've already done the processing and stored the relevant pickle files. Kindly load those files wherever required. This is also being added as a warning in our final notebook.
+2) Some of the cells take hours together to run, so to avoid that we've already done the processing and stored the relevant pickle files. Kindly load those files wherever required. This is also being added as a warning in our final notebook.
 
-Final Notebook - [KDD cup 2009](https://github.com/akshaypt7/customer_relationship_prediction/blob/main/Kdd_cup_final_gradientboosting.ipynb)
+3) Final Notebook - [KDD cup 2009](https://github.com/akshaypt7/customer_relationship_prediction/blob/main/Kdd_cup_final_gradientboosting.ipynb)
