@@ -14,7 +14,7 @@ We’ve further built tree-based ensemble models - Random Forest, Gradient Boost
 3) Final Notebook - [KDD cup 2009](https://github.com/akshaypt7/customer_relationship_prediction/blob/main/Kdd_cup_2009.ipynb)
 
 
-Contributors
+**Contributors**
 
 * [Akshay Ranjith](https://github.com/akshaypt7)
 * [Manisha R](https://github.com/Manisha2297)
