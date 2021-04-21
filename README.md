@@ -12,3 +12,10 @@ We’ve further built tree-based ensemble models - Random Forest, Gradient Boost
 2) Some of the cells take hours together to run, so to avoid that we've already done the processing and stored the relevant pickle files. Kindly load those files wherever required. This is also being added as a warning in our final notebook.
 
 3) Final Notebook - [KDD cup 2009](https://github.com/akshaypt7/customer_relationship_prediction/blob/main/Kdd_cup_2009.ipynb)
+
+
+Contributors
+[Akshay Ranjith](https://github.com/akshaypt7)
+[Manisha R](https://github.com/Manisha2297)
+[Vishal Balaji](https://www.linkedin.com/in/vishal-balaji-121b49137/)
+[Padmaja Bhagwat](https://www.linkedin.com/in/padmajavb/)
