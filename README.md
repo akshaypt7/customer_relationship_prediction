@@ -15,7 +15,8 @@ We’ve further built tree-based ensemble models - Random Forest, Gradient Boost
 
 
 Contributors
-[Akshay Ranjith](https://github.com/akshaypt7)
-[Manisha R](https://github.com/Manisha2297)
-[Vishal Balaji](https://www.linkedin.com/in/vishal-balaji-121b49137/)
-[Padmaja Bhagwat](https://www.linkedin.com/in/padmajavb/)
+
+* [Akshay Ranjith](https://github.com/akshaypt7)
+* [Manisha R](https://github.com/Manisha2297)
+* [Vishal Balaji](https://www.linkedin.com/in/vishal-balaji-121b49137/)
+* [Padmaja Bhagwat](https://www.linkedin.com/in/padmajavb/)
